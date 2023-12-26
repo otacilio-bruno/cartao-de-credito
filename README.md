@@ -1,5 +1,5 @@
-# Credit Card Payment Form
+# Formulário de pagamento com cartão de crédito
 
- style flair so made a simple SVG card that changes as the user fills out the form.A Pen created on CodePen.io. Original URL: [https://codepen.io/quinlo/pen/YONMEa](https://codepen.io/quinlo/pen/YONMEa).
+ talento de estilo, então fiz um cartão SVG simples que muda conforme o usuário preenche o formulário. Uma caneta criada em CodePen.io. URL original: [https://codepen.io/quinlo/pen/YONMEa](https://codepen.io/quinlo/pen/YONMEa).
 
-Wanted to work with some masking so made a payment form so, using vanilla JS and the imask.js library, made a fairly simply payment form that uses regex patterns to detect the credit card type as the user is inputting values and properly applies the relevant spacing associated with that brand.  
+Queria trabalhar com algum mascaramento, então criei um formulário de pagamento, usando Vanilla JS e a biblioteca imask.js, criei um formulário de pagamento bastante simples que usa padrões regex para detectar o tipo de cartão de crédito conforme o usuário insere valores e aplica corretamente os valores relevantes espaçamento associado a essa marca.
